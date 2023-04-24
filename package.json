@@ -1,0 +1,42 @@
+{
+  "name": "serveroryx",
+  "version": "1.0.0",
+  "description": "A javascript / node.js server and website databace maneger and creation tool.",
+  "main": "/src/Server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonm26301/Serveroryx.git"
+  },
+  "keywords": [
+    "npm-server",
+    "npm-Server",
+    "Npm-Server",
+    "NPM-SERVER",
+    "npm",
+    "server",
+    "javascript-server",
+    "javascript-Server",
+    "Javascript-Server",
+    "js-server",
+    "JS-server",
+    "server",
+    "Server",
+    "server-maneger",
+    "js",
+    "server",
+    "html",
+    "game",
+    "server",
+    "maltiplayer",
+    "server"
+  ],
+  "author": "Landon M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landonm26301/Serveroryx/issues"
+  },
+  "homepage": "https://github.com/landonm26301/Serveroryx#readme"
+}
